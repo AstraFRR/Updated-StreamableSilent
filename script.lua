@@ -91,5 +91,5 @@ RunService:BindToRenderStep("AimLock", 0, function()
     else
 setclipboard("https://www.roblox.com/groups/32334017/Simplyz#!/about")
 wait(1)
-game.Players.LocalPlayer:Kick("Make sure to join Simplyz for this script to work!")
+game.Players.LocalPlayer:Kick("Make sure to join Simplyz for this script to work! The link has been copied to your clipboard")
         end
